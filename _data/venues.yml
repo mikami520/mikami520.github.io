@@ -1,6 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"COSM":
+  url: https://cosm.md/
+  color: "#FF00CD"
+
+"CSOHNS":
+  url: https://www.entcanada.org/news-events/annual-meetings/vancouver-2022/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CMIMI":
+  url: https://siim.org/learning-events/events/cmimi/
+  color: "#49FF00"
