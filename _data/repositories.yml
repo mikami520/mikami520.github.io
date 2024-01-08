@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mikami520
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mikami520/CPD-Pytorch
+  - mikami520/MONAI
+  - mikami520/MeshDeformNet
+  - mikami520/ros_geomagic 
+  - mikami520/PromptCraft-Robotics
+  - mikami520/ZoeDepth 
