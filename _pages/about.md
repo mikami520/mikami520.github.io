@@ -16,6 +16,7 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+clustrmaps: true
 ---
 
 I am a Ph.D. candidate in the [University of Toronto Medical Physics Department](https://medbio.utoronto.ca/). Before entering U of T, I was a master student in the Johns Hopkins University, major in [Robotics](https://lcsr.jhu.edu/). I also obtained my bachelor degrees in both Computer Science and Mechanical Engineering in the University of Pittsburgh and Sichuan University.
