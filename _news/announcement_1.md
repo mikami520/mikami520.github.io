@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper *Self-Supervised Cyclic Diffeomorphic Mapping for Soft Tissue Deformation Recovery in Robotic Surgery Scenes* was accepted by IEEE TMI 2024!
+One paper *HEARTNET: Weakly-Supervised Heart Mesh Generation* was submitted and reviewed by IEEE TMI.
