@@ -3,8 +3,8 @@ github_users:
 
 github_repos:
   - mikami520/CPD-Pytorch
-  - mikami520/MONAI
+  - mikami520/UNET
   - mikami520/MeshDeformNet
-  - mikami520/ros_geomagic 
+  - mikami520/dockerlabs 
   - mikami520/PromptCraft-Robotics
   - mikami520/ZoeDepth 
