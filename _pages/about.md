@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 clustrmaps: true
 ---
 
-I am a Ph.D. candidate in the [University of Toronto Medical Biophysics Department](https://medbio.utoronto.ca/). Before entering U of T, I was a master student in the Johns Hopkins University, major in [Robotics](https://lcsr.jhu.edu/). I also obtained my bachelor degrees in both Computer Science and Mechanical Engineering in the University of Pittsburgh and Sichuan University.
+I am a Ph.D. candidate in [Medical Biophysics, University of Toronto](https://medbio.utoronto.ca/). Before entering U of T, I was a master student in the Johns Hopkins University, major in [Robotics](https://lcsr.jhu.edu/). I also obtained my bachelor degrees in both Computer Science and Mechanical Engineering in the University of Pittsburgh and Sichuan University.
 
 I am developing the magnetic resonance imaging parallel radiofrequency system under the supervision of [Prof. Simon Graham](https://sunnybrook.ca/research/team/member.asp?m=487&page=528). I worked on medical image analysis and image-guided surgery under the supervision of [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/) in the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/). I also worked on workflow analysis of cataract surgery based on videos under the supervision of [Dr. Swaroop Vedula](https://malonecenter.jhu.edu/people/swaroop-vedula/) in the same lab.
 
