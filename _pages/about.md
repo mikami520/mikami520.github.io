@@ -5,10 +5,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic.jpeg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Sunnybrook Research Institute</p>
+    <p>S6 Sunnybrook Research Institute</p>
     <p>2075 Bayview Ave</p>
     <p>Toronto, ON, M4N 3M5</p>
 
